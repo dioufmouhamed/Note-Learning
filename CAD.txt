@@ -1,0 +1,34 @@
+Module 2 ***********************************************++
+define process
+define and design data mmodel 
+define and design User interface
+Apply security
+Automate
+integrate
+Enhance user interface
+Test
+
+
+Module 3 ***************************************************+
+
+Application Engine Studio : AES  , guided low code tools , you can delelgate role for developper
+
+Sevicenow Studio: IDE environment for developper workf on custom application 
+
+Guided Applicaiton Creator: GAC , intuitive for build application , define step for process
+    create application:
+        application configuration: name description and scope
+        User role : existing or new
+        User experience: mobile or classic
+        Table : existing or new
+        field input
+        table configuration : label , auto num, manage access
+        next step : studio , flow designer , another app
+
+    Git Repository:
+        Branch : une copie de l application pour travailler en paralelle avec le meme compte 
+        Fork : copy  of a Repository under a new account (include branch)
+        Tag : a point in time marker, it can be used to create a branch.
+        Stash :
+
+tstt
